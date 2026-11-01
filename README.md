@@ -1,4 +1,5 @@
 # Phishing Case Study: Fake UAE Flag Day AED 200 Gift
+![Phishing analysis case study thumbnail](phishing-case-study-thumbnail.png)
 
 Investigation of a WhatsApp phishing scam claiming the UAE President was giving every resident AED 200 for Flag Day. I analyzed the link safely with urlscan.io and WHOIS, documented the indicators of compromise, and reported the domain.
 
